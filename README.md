@@ -3,6 +3,8 @@
 
 This repository contains my solutions to the GeeksforGeeks Problem of the Day (POTD) as part of the 60 Days NPCI Challenge, started on 13 February.
 
+GfG Profile: https://www.geeksforgeeks.org/profile/ronak_gupta
+
 Objective:
 
 Solve one company-level question daily
