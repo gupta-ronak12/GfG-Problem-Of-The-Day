@@ -22,9 +22,9 @@ Clean solution, Optimized approach and Time & space complexity
 Current Status
 
 Started: 13 February
-Maintaining continuous streak
+(Actively solving and tracking consistency)
 
-Target: Complete full 60-day challenge without break
+Target: Target: Complete all 60 problems with consistent improvement
 
 🛠 Language Used: Python
 
