@@ -24,7 +24,7 @@ Current Status
 Started: 13 February
 (Actively solving and tracking consistency)
 
-Target: Target: Complete all 60 problems with consistent improvement
+Target: Complete all 60 problems with consistent improvement
 
 🛠 Language Used: Python
 
